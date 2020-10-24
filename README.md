@@ -1,5 +1,7 @@
 ### General
-An application for comments displaying comments and an option for addition new comments.
+An assignment for SkillSetch workplace.
+*Comments shown with the sender's email.
+*An option to add new comments by email.
 
 ### Instructions
 This project's scripts using 'yarn', so it should be installed on the device.
