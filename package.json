@@ -1,0 +1,14 @@
+{
+  "name": "skillsetech",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "yogevmalcaym <yogevmalcaym@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "install-all": "concurrently \"cd backend && yarn\" \"cd client && yarn\"",
+    "start-all": "concurrently \"cd backend && yarn start\" \"cd client && yarn start\""
+  },
+  "dependencies": {
+    "concurrently": "^4.1.2"
+  }
+}
